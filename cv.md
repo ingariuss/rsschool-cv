@@ -10,3 +10,25 @@ I am a results-oriented and responsible specialist with strong communication ski
 * Programming Languages & Tools: Git, GitHub, Python (begginer)
 * Technical Skills: Windows/macOS expert, Troubleshooting, Web browsers 
 * Soft Skills: Logical thinking, high motivation to learn, attention to detail, and teamwork. 
+## Work Experience
+### Marketing & Operations Assistant | Danielki (e-commerce)
+* December 2023 — August 2024
+* Worked with CMS and online tools, ensuring accurate data management. 
+* Solved customer technical issues and improved user experience.
+
+### Marketing Intern | Opella, Poland
+* December 2024 — March 2025
+* Managed documentation and structured information for clients. 
+
+
+
+## Education
+* Bachelor's Degree in International Relations, Collegium Civitas, Warsaw (2021–2024) 
+* The Rolling Scopes School | JavaScript/Front-end Course (2026 - Present)
+
+
+
+## Languages
+* English - B2 (Upper-Intermediate)
+* Polish - C1 (goverment certificate)
+* Russian - native
